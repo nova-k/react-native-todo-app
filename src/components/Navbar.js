@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
 		backgroundColor: THEME.MAIN_COLOR
 	},
 	navbarIOS: {
-		borderBottomWidth: THEME.MAIN_COLOR,
+		borderBottomColor: THEME.MAIN_COLOR,
 		borderBottomWidth: 1
 	},
 	text: {
